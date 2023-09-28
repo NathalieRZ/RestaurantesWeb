@@ -5,11 +5,11 @@ La aplicación requiere de la instalación de SQL Server y obtención del backup
 Requiere tener Python y Django para el backend; para el frontend se requiere Node.js y la herramienta Vite.
 
 Se debe inicializar el servidor de Django dentro de la carpeta frontend:
-'''
+´´´
 python manage.py runserver
-'''
+´´´
 
 Para inicializar el servidor de React se ejecuta el siguiente comando en la carpeta backend.
-'''
+´´´
 npm run dev
-'''
+´´´
